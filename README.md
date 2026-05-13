@@ -11,5 +11,7 @@ O quiz consiste em 15 perguntas desafiadoras sobre a fundação, cultura, econom
 LISTA DE INTEGRANTES:
 
 Mateus Dutra Fischer
+
 Cadu Tachine Fernandes
+
 Miguel Orlandi Fernandes
